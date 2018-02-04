@@ -165,6 +165,7 @@ public class conwaysgol {
 			}
 			else if (e.getSource() == st) {
 				thread1.interrupt();
+				thread1 = null;
 			}
 			else if(e.getSource() == cls) {
 				int d = 0;
