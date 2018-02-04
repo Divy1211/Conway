@@ -16,8 +16,15 @@ There are a few rules that govern this game
 5. A cell is born if it has exactly three neighbours as if by reproduction.
 6. Each time a pass is done the state changes according to the rules.
 
+# About The Program
+1. Change the state of a cell by clicking it.
+2. Use the text field for changing the speed in milliseconds. Default is 50 milliseconds.
+3. Click start to begin and stop to end and clear to clear the board.
+
+Main Board
 ![Main Board](https://github.com/Divy1211/Conway/blob/master/images/Capture.PNG)
 
+Example for a pattern
 ![Example](https://github.com/Divy1211/Conway/blob/master/images/Webp.net-gifmaker.gif)
 
 check out [this](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) wiki link for more information and more patterns
