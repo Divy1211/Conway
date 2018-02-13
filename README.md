@@ -21,10 +21,10 @@ There are a few rules that govern this game
 2. Use the text field for changing the speed in milliseconds. Default is 50 milliseconds.
 3. Click start to begin and stop to end and clear to clear the board.
 
-Main Board
+1. Main Board
 ![Main Board](https://github.com/Divy1211/Conway/blob/master/images/Capture.PNG)
 
-Example for a pattern
+2. Example for a pattern
 ![Example](https://github.com/Divy1211/Conway/blob/master/images/Webp.net-gifmaker.gif)
 
-check out [this](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) wiki link for more information and more patterns
+3. Check out [this](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) wiki link for more information and more patterns
