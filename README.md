@@ -1,7 +1,7 @@
 # Conway's Game of Life
 1. This is conway's game of life recreated in java
 
-# Prerequisiies
+# Prerequisites
 
 1. You need to install and run this code in Java
 
